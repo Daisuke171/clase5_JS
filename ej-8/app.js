@@ -28,7 +28,7 @@ function warnTheSheep(arr){
 }
 
 const FLOCK1 = ["sheep", "sheep", "wolf", "sheep", "sheep"];
-const FLOCK2 = ["wolf", "sheep", "sheep", "wolf"];
+const FLOCK2 = ["wolf", "sheep", "sheep", "sheep"];
 
 warnTheSheep(FLOCK1);
 warnTheSheep(FLOCK2);
